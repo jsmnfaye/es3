@@ -1,8 +1,6 @@
-# es3
-
 ## team members
-Alonzo, Gerald P.
-Atendido, Jasmine Faye G.
-Bermudez, Dean Patrick O.
-Gaspar, Sheena Marie O.
-Jose, Joseph Angelo C.
+Alonzo, Gerald P. <br>
+Atendido, Jasmine Faye G.<br>
+Bermudez, Dean Patrick O.<br>
+Gaspar, Sheena Marie O.<br>
+Jose, Joseph Angelo C.<br>
